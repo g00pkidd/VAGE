@@ -1,30 +1,42 @@
-# VAGE
-If your school computer blocked downloading files, VAGE would be the answer to play. regularly fixed and new links will be added.
+🎮 VAGE
 
-# SUPPORTED SCHOOL BLOCKERS:
-LIGHTSPEED
-and more idk
+VAGE — a collection of game, entertainment, and web links for school devices.
 
-# LINKS:
+Having trouble accessing certain websites or downloading files on a school computer? VAGE brings useful links together in one place.
 
-Aether: https://storage.googlepis.com/apushistory/study.html
-Fern: https://s3.amazonaws.com/.bullproxy/index.html
-Rosin: aloha4d.lol
-Truffled: essay.reading.dj8.org
-Vortex (ONLY CHATING) https://i-love-pete.9geae7.cfd/
+Links may change over time, so the list is regularly updated with working alternatives and new additions.
 
+🛡️ Supported School Filters
 
-# cool things you can search in those links:
-now.gg (roblox)
-https://win11.blueedge.me/ (make your chromebook into a windows pc)
-https://dos.zone/ (GTA 1 through vice city
-https://www.xbox.com/en-us/play (Fortnite, and other xbox games ACCOUNT REQUIRED)
-https://sites.google.com/view/coolflixlol/wasd (random videos)
+Currently known to work around:
 
+Lightspeed
+And potentially other school web filters
 
+⚠️ Availability can vary depending on your school's network and filtering policies.
 
+🔗 Links
+Name	Link
+Aether	https://storage.googlepis.com/apushistory/study.html
+Fern	https://s3.amazonaws.com/.bullproxy/index.html
+Rosin	aloha4d.lol
+Truffled	essay.reading.dj8.org
+Vortex	https://i-love-pete.9geae7.cfd/ (chat only)
+✨ Things to Try
+🎮 Gaming
+now.gg — Play Roblox in your browser
+Xbox Cloud Gaming — Fortnite and other Xbox games (account required)
+DOS.Zone — Classic games, including GTA titles
+💻 Browser Experiments
+Win11 — A browser-based Windows 11-style desktop
+https://win11.blueedge.me/
+📺 Entertainment
+Coolflix — Random videos and other entertainment
+https://sites.google.com/view/coolflixlol/wasd
+🚀 Updates
 
+New links and replacements will be added as needed.
 
+If a link stops working, check back later for an updated version.
 
-
-# MADE BY g00pkidd
+⭐ Star the repo if you find it useful.
