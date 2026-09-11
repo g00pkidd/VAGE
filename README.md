@@ -20,3 +20,11 @@ https://win11.blueedge.me/ (make your chromebook into a windows pc)
 https://dos.zone/ (GTA 1 through vice city
 https://www.xbox.com/en-us/play (Fortnite, and other xbox games ACCOUNT REQUIRED)
 https://sites.google.com/view/coolflixlol/wasd (random videos)
+
+
+
+
+
+
+
+# MADE BY g00pkidd
