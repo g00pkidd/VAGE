@@ -12,7 +12,7 @@ aloha4d.lol (also good for games)
 
 storage.googleapis.com/apushistory/study.html (very fancy for browsing)
 
-# links will be updated as soon as when it gets blocked
+# links will be updated as soon as when it gets blocked and more will get added
 
 # blockers supported
 
