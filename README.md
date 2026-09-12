@@ -1,55 +1,24 @@
-# 🎮 VAGE
+# VAGE
 
-# VAGE — a collection of game, entertainment, and web links for school devices.
+# LINKS
 
-Having trouble accessing certain websites or downloading files on a school computer? VAGE brings useful links together in one place.
+s3.amazonaws.com/scholarnook/index.html  (spotify, and more)
 
-Links may change over time, so the list is regularly updated with working alternatives and new additions.
+https://opiumbest.s3.amazonaws.com/index/html  (games)
 
-# 🛡️ Supported School Filters
+toby.booksforschool.online/index.html (undertale)
 
-Currently known to work around:
+https://s3.amazonaws.com/ixlsucks/study.html (good for games and has the peakest character as the ai)
 
-Lightspeed
-And potentially other school web filters
+aloha4d.lol (also good for games)
 
-# ⚠️ Availability can vary depending on your school's network and filtering policies.
+storage.googleapis.com/apushistory/study.html (very fancy for browsing)
 
-# 🔗 Links
-Aether	https://storage.googlepis.com/apushistory/study.html
+# links will be updated as soon as when it gets blocked
 
-Fern	https://s3.amazonaws.com/.bullproxy/index.html
+# blockers supported
 
-Rosin	aloha4d.lol
+lightspeed (california)
+thats all i got
 
-Truffled	essay.reading.dj8.org
-
-Vortex	https://i-love-pete.9geae7.cfd/ (chat only)
-
-✨ Searches to try
-
-# 🎮 Gaming
-
-now.gg — Play Roblox in your browser
-
-Xbox Cloud Gaming — Fortnite and other Xbox games (account required)
-
-DOS.Zone — Classic games, including GTA titles
-
-# 💻 Browser Experiments
-Win11 — A browser-based Windows 11-style desktop
-
-https://win11.blueedge.me/
-
-📺 Entertainment
-Coolflix — Random videos
-
-https://sites.google.com/view/coolflixlol/wasd
-
-# 🚀 Updates
-
-New links and replacements will be added as needed.
-
-If a link stops working, check back later for an updated version.
-
- # G00PKIDD ON TOP 
+# g00pkidd ON TOP
