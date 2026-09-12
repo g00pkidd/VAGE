@@ -4,8 +4,6 @@
 
 s3.amazonaws.com/scholarnook/index.html  (spotify, and more)
 
-https://opiumbest.s3.amazonaws.com/index/html  (games)
-
 toby.booksforschool.online/index.html (undertale)
 
 https://s3.amazonaws.com/ixlsucks/study.html (good for games and has the peakest character as the ai)
