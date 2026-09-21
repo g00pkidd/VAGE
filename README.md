@@ -24,6 +24,10 @@ http://storage.googleapis.com/math-homework/index.html (artic)
 
 http://storage.googleapis.com/dogeub/index.html#/ (dogeub MIGHT not work idk)
 
+http://s3.amazonaws.com/nebulathebest/dashboard.html (Nebula)
+
+S3.amazonaws.com/7pfp/index.html (another OS)
+
 # links will be updated as soon as when it gets blocked and more will get added
 
 # blockers supported
@@ -52,30 +56,6 @@ GoGuardian
 
   https://win7simu.visnalize.com (every OS)
   
-
-# g00pkidd ON TOP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Psst made by Alexys 
+  fakeupdate.net (prank)
+  
+# g00pkidd ON TOP 
