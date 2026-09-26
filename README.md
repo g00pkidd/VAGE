@@ -1,5 +1,8 @@
 # VAGE
 
+
+# VAGE MAJOR UPDATE! (CLOUD STREAMING FIX)
+
 # LINKS
 
 s3.amazonaws.com/scholarnook/index.html  (spotify, and more)
@@ -48,7 +51,7 @@ lightspeed
 GoGuardian
 
 # WEBSITES!
-  ghostcloud-eight.vercel.app/   (Games)
+  https://6ab424f57d63c.site123.me/  (cloud streaming)
   
   https://win11.blueedge.me/     (Windows OS)
 
@@ -69,7 +72,7 @@ GoGuardian
   https://win7simu.visnalize.com (every OS)
   
   fakeupdate.net (prank)
-  
+
 # g00pkidd ON TOP 
 
 hop off happy wheels
