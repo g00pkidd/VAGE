@@ -10,7 +10,7 @@ https://s3.amazonaws.com/ixlsucks/study.html (good for games and has the peakest
 
 aloha4d.lol (also good for games)
 
-storage.googleapis.com/apushistory/study.html (Fastest Proxy)
+http://apstat.s3.us-east-1.amazonaws.com/index.html (Fastest Proxy)
 
 s3.amazonaws.com/ghbw/index.html (fern)
 
@@ -27,6 +27,18 @@ http://storage.googleapis.com/dogeub/index.html#/ (dogeub MIGHT not work idk)
 http://s3.amazonaws.com/nebulathebest/dashboard.html (Nebula)
 
 S3.amazonaws.com/7pfp/index.html (another OS)
+
+
+
+# RECOMMENDED LINKS!
+
+s3.amazonaws.com/scholarnook/index.html  
+                    (SPOTIFY, GAMES, AND MORE)
+
+http://apstat.s3.us-east-1.amazonaws.com/index.html (Fastest Proxy)
+
+toby.booksforschool.online/index.html (undertale)
+
 
 # links will be updated as soon as when it gets blocked and more will get added
 
@@ -59,3 +71,5 @@ GoGuardian
   fakeupdate.net (prank)
   
 # g00pkidd ON TOP 
+
+hop off happy wheels
